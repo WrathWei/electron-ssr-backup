@@ -82,3 +82,9 @@ npm run mocha
 npm run lint
 
 ```
+在host文件中添加
+#lncn.org
+69.194.14.16 lncn.org
+
+然后访问网站
+https://lncn.org/
